@@ -1,4 +1,4 @@
-baseURL: "https://mofi.dev"
+baseURL: "https://blog.mofi.dev"
 title: mofi
 paginate: 5
 theme: PaperMod
